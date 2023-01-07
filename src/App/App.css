@@ -1,0 +1,39 @@
+.list-container {
+}
+.app-btns-container {
+    margin-top: 48px;
+    display: flex;
+    justify-content: flex-end;
+}
+
+.contact-item {
+    display: flex;
+    margin-bottom:12px
+}
+
+.contact-item > div {
+    width: 112px;
+}
+
+.modal-title {
+    margin-bottom: 12px;
+}
+
+.modal-btns-container {
+    padding-top: 16px;
+    text-align: right;
+}
+
+.app-btns-container > button {
+    margin-right: 12px;
+}
+
+.contact-item .phones {
+    display: flex;
+    flex-direction: column;
+    width: 64%;
+}
+
+.contact-item .phones input {
+    width: 100%;
+}

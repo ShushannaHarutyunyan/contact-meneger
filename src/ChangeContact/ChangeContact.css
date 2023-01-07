@@ -1,0 +1,8 @@
+.change-contact-container {
+    display: flex;
+}
+
+.change-contact-phones {
+    display: flex;
+    flex-direction: column;
+}

@@ -1,0 +1,10 @@
+.pop-up-container {
+    border: 1px solid black;
+    padding: 12px;
+    position: absolute;
+    right: 0;
+    width: 140px;
+    background-color: white;
+    border-radius: 4px;
+    bottom:100%
+}

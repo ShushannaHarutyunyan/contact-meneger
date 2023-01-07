@@ -1,0 +1,48 @@
+{
+  "contacts": [
+    {
+      "id": "vnQBgeM",
+      "firstName": "test_name_2_1",
+      "lastName": "test_lastname_2_1",
+      "email": "test2@gmail.com",
+      "phones": [
+        "+37488888",
+        "+37499999"
+      ],
+      "profession": "driver"
+    },
+    {
+      "firstName": "any name",
+      "lastName": "any lastname",
+      "email": "any@gmail.com",
+      "phones": [
+        "+37999999",
+        "+374555555"
+      ],
+      "profession": "any",
+      "id": "zhyanKW"
+    },
+    {
+      "firstName": "test_name_2",
+      "lastName": "test_lastname_2_1",
+      "email": "test2@gmail.com",
+      "phones": [
+        "+37488888",
+        "+37499999"
+      ],
+      "profession": "driver",
+      "id": "-l9gb5V"
+    },
+    {
+      "firstName": "test_name_2",
+      "lastName": "test_lastname_2",
+      "email": "test2@gmail.com",
+      "phones": [
+        "+37488888",
+        "+37499999"
+      ],
+      "profession": "driver",
+      "id": "52Ihkol"
+    }
+  ]
+}

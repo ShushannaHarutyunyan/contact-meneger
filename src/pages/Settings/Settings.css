@@ -1,0 +1,7 @@
+.settings-btn-container {
+    margin-top: 20px;
+}
+
+.settings-btn-container > :first-child {
+    margin-right: 4px;
+}
